@@ -1356,7 +1356,7 @@
         // DATA
         // ============================================================
         const CATEGORIES = [
-            { id: 'phones', name: 'Smartphones', icon: 'fa-mobile-alt', count: 90 },
+            { id: 'phones', name: 'Smartphones', icon: 'fa-mobile-alt', count: 100 },
             { id: 'laptops', name: 'Laptops', icon: 'fa-laptop', count: 90 },
             { id: 'clothing', name: 'Clothing', icon: 'fa-tshirt', count: 90 },
             { id: 'gadgets', name: 'Gadgets', icon: 'fa-headphones', count: 90 },
