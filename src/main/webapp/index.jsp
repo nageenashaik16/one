@@ -1358,7 +1358,7 @@
         const CATEGORIES = [
             { id: 'phones', name: 'Smartphones', icon: 'fa-mobile-alt', count: 10 },
             { id: 'laptops', name: 'Laptops', icon: 'fa-laptop', count: 10 },
-            { id: 'clothing', name: 'Clothing', icon: 'fa-tshirt', count: 90 },
+            { id: 'clothing', name: 'Clothing', icon: 'fa-tshirt', count: 10 },
             { id: 'gadgets', name: 'Gadgets', icon: 'fa-headphones', count: 90 },
             { id: 'footwear', name: 'Footwear', icon: 'fa-shoe-prints', count: 90 },
             { id: 'accessories', name: 'Accessories', icon: 'fa-watch', count: 90 }
